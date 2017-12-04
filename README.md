@@ -1,6 +1,6 @@
 # devops-aula2
 Cauã Reymond
-Juliana Paes
+Tais Araujo
 Mariana Rios
 Joaquim Lopes
 Bruno Gagliasso
