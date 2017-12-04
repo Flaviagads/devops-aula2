@@ -1,7 +1,8 @@
 # devops-aula2
 Cauã Reymond
-Juliana Paes
+Paola Oliveira
 Mariana Rios
 Joaquim Lopes
 Bruno Gagliasso
 Bruna Marquezine
+Tais Araujo
